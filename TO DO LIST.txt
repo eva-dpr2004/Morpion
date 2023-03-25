@@ -1,0 +1,9 @@
+- Régler le timing du morpion pour qu'il apparaisse après le loader
+
+- Feu d'artifice quand un joueur gagne et que la partie est fini
+
+- Background style jeu d'arcade
+
+- Faire une version difficile du morpion avec 4 cases 
+
+
