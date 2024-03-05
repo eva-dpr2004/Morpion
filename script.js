@@ -74,7 +74,7 @@ function checkWinner(){
         }
     }
     if(roundWon){
-        statusText.textContent = `${currentPlayer} Gagne ♥`;
+        statusText.textContent = `${currentPlayer} Gagne `;
         running = false;
     }
     else if(!options.includes("")){
